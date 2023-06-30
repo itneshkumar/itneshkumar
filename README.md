@@ -1,15 +1,13 @@
-## ITNESH KUMAR
-NLP Engineer
-Email: itneshkumar@gmail.com
-LinkedIn: [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
-GitHub: [github.com/itneshkumar](https://github.com/itneshkumar)
-Phone: +918010112762
-Location: New Delhi-110020
+## ITNESH KUMAR ( NLP Engineer )
+**Email :** itneshkumar@gmail.com
+**LinkedIn :** [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
+**Phone :** +918010112762
+**Location:** <em>India</em>
 
 ---
 
 ### SUMMARY:
-5 years of experience dealing with Banking and satellite industry. I've been working in the CRMNEXT AI team. Working knowledge of NLP, LLM, Computer Vision and Machine Learning is primarily used to solve problems in Text Processing and Sentiment Analysis Generative tasks and Road Object Detection. Designing Clean Architecture for model deployment in production.
+5 years of experience dealing with Banking and satellite industry. I've been working in the CRMNEXT AI team. Working knowledge of NLP, LLM, Computer Vision and Machine Learning is primarily used to solve problems in Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Designing Clean Architecture for model deployment in production.
 
 ---
 
@@ -18,10 +16,18 @@ Location: New Delhi-110020
 **NLP Engineer** (Jan 2023 to Present)  
 CRMNext - Noida
 
-**Software Engineer (AI-ML Team )** (July 2018 to Dec 2022)  
-MapmyIndia - New Delhi
+- **VKYC:** This service has mainly five features with multiple modules.
+- Aadhaar Card Data Extractor (three OCR models)
+ Markup : - [ ] LayoutLMV2
+-  Visual QNA
+-  Tesseract
+  ![Tesseract](https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png)
 
-- **VKYC:** This service has mainly five features with multiple modules. Aadhaar Card Data Extractor (three OCR models), Pan Card Data Extractor (two OCR models), Head Movement Detector, Eye Blinking Finger Counter, Signature Match Verification.  
+- Pan Card Data Extractor (two OCR models)
+- LayoutLMV2
+- Tesseract
+  ![Tesseract](https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png)
+ Head Movement Detector, Eye Blinking Finger Counter, Signature Match Verification.  
 Tech stack: MinIODB, Docker, Kubernetes, Tesseract, LayoutLM, VisualQNA, Mediapipe, Craft Text (Service Replacement)
 
 - **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
