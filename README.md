@@ -16,7 +16,7 @@ Specialize in implementing clean architecture for deploying models in production
 ### Banking Projects
 ---
   **VKYC:** This service has mainly five features with multiple modules.
-   - Document Data Extractor  <br />
+   - Document Data Extractor & Verification  <br />
        - [Aadhaar Card](https://uidai.gov.in/)
          <br />
          [<img src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png" width="50" />](https://github.com/huggingface)
