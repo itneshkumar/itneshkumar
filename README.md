@@ -69,24 +69,36 @@ This tool is used to gather information from social media sites including Facebo
 <br />
 Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources. It reduce the driver mistake and suggest the all driver alert for smoother rides. Due to connected with gps system, it also provide the location of driver alert as well.
 
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="100" />](https://www.tensorflow.org/) [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="100" />](https://www.postgresql.org/) [<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg" width="100" />](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="100" />](https://flask.palletsprojects.com/en/2.3.x/)
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="50" />](https://www.tensorflow.org/) [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg" width="50" />](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/)
 
 ---
 **Privacy Keeper:** Face and License Plate Detection and Blurring
 <br />
 The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI.
 <br />
-[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="100" />](https://www.postgresql.org/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0ohzrBA4exBZ1uc1SqIJErzOwcqL32YWEQ&usqp=CAU" width="70" />](https://docs.python.org/3/library/tkinter.html)
+[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0ohzrBA4exBZ1uc1SqIJErzOwcqL32YWEQ&usqp=CAU" width="30" />](https://docs.python.org/3/library/tkinter.html)
 
 ---
-
-**Brand Billboard Detection and Recognition :** 
+**Brand Billboard Detection and Recognition :**
 <br />
- Hugging The system identifies brand billboards in images or real-time webcam feeds. The recognized brand names are acknowledged by the company, allowing for training based on this information. The system is deployed for batch processing purposes.
+The system identifies brand billboards in images or real-time webcam feeds. The recognized brand names are acknowledged by the company, allowing for training based on this information. The system is deployed for batch processing purposes.
+
+[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/) 
+
 ---
-Zebra Crossing Detection and Recognition: The system detects all pedestrian crossings on the road in real-time and promptly alerts the driver.
+**Zebra Crossing Detection and Recognition:**
+<br />
+The system detects all pedestrian crossings on the road in real-time and promptly alerts the driver.
+
+[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/) 
+
 ---
-Address Parser: Based on entity recognition, the system identifies and categorizes words related to geographical addresses, such as village, city, and country. This information is useful for location searches.
+**Address Parser:**
+<br />
+Based on entity recognition, the system identifies and categorizes words related to geographical addresses, such as village, city, and country. This information is useful for location searches.
+
+[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/) 
+
 ---
 
 
