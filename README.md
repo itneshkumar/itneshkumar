@@ -1,18 +1,17 @@
-<img src="1688189747218.jpg" width="100" align="center" />
-## ITNESH KUMAR ( NLP Engineer )
-**Email :** itneshkumar@gmail.com
-**LinkedIn :** [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
-**Phone :** +918010112762
-**Location:** <em>India</em>
+<p align="center"> <img src="1688189747218.jpg" width="300" align="center" /></p>
+
+<h2><p align="center">ITNESH KUMAR ( NLP Engineer )</p></h2>
+
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" align="center" />  itneshkumar@gmail.com
+<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" align="center" /> [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
+<img src="https://static.vecteezy.com/system/resources/previews/009/344/680/non_2x/telephone-transparent-free-png.png" width="40" align="center" /> +91 8010112762      NCR Delhi, India
 
 ---
-
-### SUMMARY:
 5 years of experience dealing with Banking and satellite industry. I've been working in the CRMNEXT AI team. Working knowledge of NLP, LLM, Computer Vision and Machine Learning is primarily used to solve problems in Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Designing Clean Architecture for model deployment in production.
 
 ---
 
-### WORK EXPERIENCE:
+### EXPERIENCE
 
 **NLP Engineer** (Jan 2023 to Present)  
 CRMNext - Noida
