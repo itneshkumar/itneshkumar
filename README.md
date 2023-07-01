@@ -7,28 +7,38 @@
 <img src="https://static.vecteezy.com/system/resources/previews/009/344/680/non_2x/telephone-transparent-free-png.png" width="40" align="center" /> +91 8010112762      NCR Delhi, India
 
 ---
-5 years of experience dealing with Banking and satellite industry. I've been working in the CRMNEXT AI team. Working knowledge of NLP, LLM, Computer Vision and Machine Learning is primarily used to solve problems in Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Designing Clean Architecture for model deployment in production.
+With 5 years of experience in AI Industry problem solving expertise in the banking and mapping industry. Utilizing NLP, LLM, Computer Vision, and Machine Learning to solve various challenges related Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Specifically, they have focused on text processing, sentiment analysis generative tasks, road object detection, and satellite image segmentation.
+
+Specialize in implementing clean architecture for deploying models in production, prioritizing efficiency and effectiveness in the process.
 
 ---
 
-### EXPERIENCE
-
-**NLP Engineer** (Jan 2023 to Present)  
-CRMNext - Noida
-
-- **VKYC:** This service has mainly five features with multiple modules.
-- Aadhaar Card Data Extractor (three OCR models)
- Markup : - [ ] LayoutLMV2
--  Visual QNA
--  Tesseract <img src="https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png" width="50" />
+### Banking Projects
+---
+  **VKYC:** This service has mainly five features with multiple modules.
+   - Document Data Extractor  <br />
+       - [Aadhaar Card](https://uidai.gov.in/)
+         <br />
+         [<img src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png" width="50" />](https://github.com/huggingface)
+          - [x] [LayoutLMV2](https://huggingface.co/docs/transformers/model_doc/layoutlmv2)
+          - [x] [Visual QNA](https://huggingface.co/tasks/visual-question-answering) <br />
+            [<img src="https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png" width="30" />](https://github.com/tesseract-ocr/tesseract)Tesseract 
+       
   
+      - [Pan Card Data](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html)
+         <br />
+        [<img src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png" width="50" />](https://github.com/huggingface)
+         - [x] [LayoutLMV2](https://huggingface.co/docs/transformers/model_doc/layoutlmv2) <br />
+           [<img src="https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png" width="30" />](https://github.com/tesseract-ocr/tesseract)Tesseract
+ 
+     - Video Verification  <br />
+        - Head Movement Detector
+        - Eye Blinking Finger Counter
+     - Signature Match Verification <br />
+ 
+     [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />](https://streamlit.io/) Model cache 
 
-- Pan Card Data Extractor (two OCR models)
-- LayoutLMV2
-- Tesseract
-  ![Tesseract](https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png)
- Head Movement Detector, Eye Blinking Finger Counter, Signature Match Verification.  
-Tech stack: MinIODB, Docker, Kubernetes, Tesseract, LayoutLM, VisualQNA, Mediapipe, Craft Text (Service Replacement)
+ ---
 
 - **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
 
