@@ -58,7 +58,6 @@ Specialize in implementing clean architecture for deploying models in production
 
 - **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
 
-- **ChatBot Next: Chat Bot:** This service is used for chat bots that use the Rasa model and minioDB for the model persists. It uses the gRPC protocol to deliver the service.
 
 - **Face and License Plate Detection and Blurring:** The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI. (Service Replacement)
 
