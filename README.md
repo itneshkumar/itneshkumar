@@ -39,6 +39,17 @@ Specialize in implementing clean architecture for deploying models in production
      [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />](https://streamlit.io/) Model cache 
 
  ---
+  **AI Service & AI Prediction :** Some of the use cases of service
+   - Fraud Detection: Analyzing data to detect fraudulent activities.
+   - Up-Selling and Cross-Selling: Identifying potential additional product or service recommendations based on customer behavior and purchase history.
+   - Loan Interest Customer Prediction: Predicting the likelihood of customer interest in a loan using historical data and application details.
+    <br />
+     **_Used Techstach:_**
+   
+ 
+   [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://anderfernandez.com/wp-content/uploads/2022/08/PyCaret.jpg" width="100" />](https://pycaret.org/) Model cache [<img src="https://opentelemetry.io/img/social/logo-wordmark-001.png" width="100" />](https://opentelemetry.io/docs/collector/configuration/) [<img src="https://miro.medium.com/v2/resize:fit:840/1*bRunXpiVIa1-1W4dug60-g.png" width="100" />](https://onnxruntime.ai/docs/performance/model-optimizations/quantization.html) [<img src="https://grpc.io/img/logos/grpc-logo.png" width="100" />](https://grpc.io/) [<img src="https://miro.medium.com/v2/resize:fit:666/1*rn-sO9oWLn9lYO7jkVO6og.png" width="100" />](https://www.sonarsource.com/products/sonarqube/)
+
+ ---
 
 - **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
 
