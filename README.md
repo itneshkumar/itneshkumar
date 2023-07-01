@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="/image.png">
+</div>
 ## ITNESH KUMAR ( NLP Engineer )
 **Email :** itneshkumar@gmail.com
 **LinkedIn :** [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
