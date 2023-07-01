@@ -1,4 +1,4 @@
-<p align="center"> <img src="1688189747218.jpg" width="300" align="center" /></p>
+<p align="center"> <img src="1688189747218-modified.png" width="300" align="center" /></p>
 
 <h2><p align="center">ITNESH KUMAR ( NLP Engineer )</p></h2>
 
