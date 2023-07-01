@@ -1,4 +1,4 @@
-![](/1688189747218.jpg)
+<img src="1688189747218.jpg" width="100" align="center" />
 ## ITNESH KUMAR ( NLP Engineer )
 **Email :** itneshkumar@gmail.com
 **LinkedIn :** [linkedin.com/in/itneshkumar](https://www.linkedin.com/in/itneshkumar)
@@ -21,8 +21,8 @@ CRMNext - Noida
 - Aadhaar Card Data Extractor (three OCR models)
  Markup : - [ ] LayoutLMV2
 -  Visual QNA
--  Tesseract
-  ![Tesseract](https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png)
+-  Tesseract <img src="https://cdn-images-1.medium.com/max/600/0*M9SOogdePzS6yuU4.png" width="50" />
+  
 
 - Pan Card Data Extractor (two OCR models)
 - LayoutLMV2
