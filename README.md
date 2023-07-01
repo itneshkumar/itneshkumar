@@ -54,7 +54,12 @@ Specialize in implementing clean architecture for deploying models in production
  This chatbot has been primarily trained using custom data from a banking industry survey, and its underlying framework is based on Rasa. And profonaity filtration word as well.
 
  [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rasa_nlu_horizontal_purple.svg/2560px-Rasa_nlu_horizontal_purple.svg.png" width="100" />](https://rasa.com/) [Model cache](https://www.geeksforgeeks.org/lru-cache-implementation/)
- 
+
+---
+**OCULUS Service:** 
+This tool is used to gather information from social media sites including Facebook, LinkedIn, Twitter, and Instagram. It then offers post sentiment analysis, summaries, translations into different languages, and suggestions for business use case posts.
+
+[<img src="https://bddf794624247cea6a0b-b4761d2ba0154d0278c36dbf2b3c114d.ssl.cf1.rackcdn.com/twitter_logo_bird_transparent_png1464104142328.png" width="300" />](https://twitter.com/home?lang=en) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" width="100" />](https://www.facebook.com/) [<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="100" />](https://www.linkedin.com/) [<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="100" />](https://huggingface.co/blog/sentiment-analysis-python)
 
 - **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
 
@@ -82,9 +87,3 @@ Specialize in implementing clean architecture for deploying models in production
 - **API FRAMEWORK:** Flask and Fast API, Sanic API, tkinter, Streamlit, gRPC
 
 ---
-
-### EDUCATION:
-
-**Bachelors of Technology in Mechanical Engineering**  
-Raj Kumar Goel Institute of Technology – Ghaziabad  
-August 2014 to July 2018
