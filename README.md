@@ -72,13 +72,14 @@ Detecting and Recognizing up to 100 different Driver-Alerts in internal survey s
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="100" />](https://www.tensorflow.org/) [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="100" />](https://www.postgresql.org/) [<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg" width="100" />](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="100" />](https://flask.palletsprojects.com/en/2.3.x/)
 
 ---
-
-
-- **Face and License Plate Detection and Blurring:** The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI. (Service Replacement)
-
-- **OCULUS Service:** This tool is used to gather information from social media sites including Facebook, LinkedIn, Twitter, and Instagram. It then offers post sentiment analysis, summaries, translations into different languages, and suggestions for business use case posts.
+**Privacy Keeper:** Face and License Plate Detection and Blurring
+<br />
+The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI.
+<br />
+[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="100" />](https://www.postgresql.org/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0ohzrBA4exBZ1uc1SqIJErzOwcqL32YWEQ&usqp=CAU" width="70" />](https://docs.python.org/3/library/tkinter.html)
 
 ---
+
 
 ### SKILLS:
 
