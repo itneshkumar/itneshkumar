@@ -80,10 +80,19 @@ The license plate detection utilized the YOLO model, while the MTCNN model utili
 
 ---
 
+**Brand Billboard Detection and Recognition :** 
+<br />
+ Hugging The system identifies brand billboards in images or real-time webcam feeds. The recognized brand names are acknowledged by the company, allowing for training based on this information. The system is deployed for batch processing purposes.
+---
+Zebra Crossing Detection and Recognition: The system detects all pedestrian crossings on the road in real-time and promptly alerts the driver.
+---
+Address Parser: Based on entity recognition, the system identifies and categorizes words related to geographical addresses, such as village, city, and country. This information is useful for location searches.
+---
+
 
 ### SKILLS:
 
-- **MACHINE LEARNING, NLP:** AutomL pycaret (training), Langchain, Layoutlmv2, Tacotron, Hugging Face, Transformer, Rasa ChatBot (Training)
+- **MACHINE LEARNING, NLP:** AutomL pycaret (training), Langchain, Layoutlmv2, Tacotron, Hugging Face, Transformer, Rasa ChatBot
 
 - **COMPUTER VISION (Convolutional Neural Network):** Training, Transfer learning with Pretrained models on customized datasets like (ResNet, VGG, Yolo, UNet, Mask-RCNN, etc.), Object Detection and Recognition, Image Segmentation and classification, Modeling with Keras, Tensorflow, and Pytorch, Image Processing with OpenCV, Matplotlib
 
