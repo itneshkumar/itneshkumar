@@ -13,7 +13,7 @@ Specialize in implementing clean architecture for deploying models in production
 
 ---
 
-### Banking Projects
+### Projects
 ---
   **VKYC:** This service has mainly five features with multiple modules.
    - Document Data Extractor & Verification  <br />
@@ -61,7 +61,14 @@ This tool is used to gather information from social media sites including Facebo
 
 [<img src="https://bddf794624247cea6a0b-b4761d2ba0154d0278c36dbf2b3c114d.ssl.cf1.rackcdn.com/twitter_logo_bird_transparent_png1464104142328.png" width="300" />](https://twitter.com/home?lang=en) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" width="100" />](https://www.facebook.com/) [<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="100" />](https://www.linkedin.com/) [<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="100" />](https://huggingface.co/blog/sentiment-analysis-python)
 
-- **TSDR:** Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Tensorflow, Keras, Pandas, Numpy, Flask, and ResNet 50 were used to build this model, and it is deployed in batch mode using Postgres. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources.
+---
+
+**TSDR:** Traffic sign Detection and Recognition
+Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources. It reduce the driver mistake and suggest the all driver alert for smoother rides. Due to connected with gps system, it also provide the location of driver alert as well.
+
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="100" />](https://www.tensorflow.org/) [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="100" />](https://www.postgresql.org/) [<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg" width="100" />](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="100" />](https://flask.palletsprojects.com/en/2.3.x/)
+
+---
 
 
 - **Face and License Plate Detection and Blurring:** The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI. (Service Replacement)
