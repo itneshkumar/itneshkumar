@@ -7,7 +7,7 @@
 <img src="https://static.vecteezy.com/system/resources/previews/009/344/680/non_2x/telephone-transparent-free-png.png" width="40" align="center" /> +91 8010112762      NCR Delhi, India
 
 ---
-With 5 years of experience in AI Industry problem solving expertise in the banking and mapping industry. Utilizing NLP, LLM, Computer Vision, and Machine Learning to solve various challenges related Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Specifically, they have focused on text processing, sentiment analysis generative tasks, road object detection, and satellite image segmentation, Statistical model training.
+With 5 years of experience in AI Industry problem solving expertise in the banking and mapping industry. Utilizing NLP, LLM, Computer Vision, and Machine Learning to solve various challenges related Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Specifically, I have focused on text processing, sentiment analysis generative tasks, road object detection, and satellite image segmentation, Statistical model training.
 
 Specialize in implementing clean architecture for deploying models in production, prioritizing efficiency and effectiveness in the process.
 
