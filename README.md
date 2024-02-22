@@ -7,15 +7,18 @@
 <img src="https://static.vecteezy.com/system/resources/previews/009/344/680/non_2x/telephone-transparent-free-png.png" width="40" align="center" /> +91 8010112762      NCR Delhi, India
 
 ---
-With 5 years of experience in AI Industry problem solving expertise in the banking and mapping industry. Utilizing NLP, LLM, Computer Vision, and Machine Learning to solve various challenges related Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Specifically, I have focused on text processing, sentiment analysis generative tasks, road object detection, and satellite image segmentation, Statistical model training.
+With 5 years of experience in the AI Industry problem-solving expertise in the banking and mapping industry. Utilizing NLP, LLM, Computer Vision, and Machine Learning to solve various challenges related to Text Processing and Sentiment Analysis Generative tasks, Road Object Detection and satellite Image segmentation. Specifically, I have focused on text processing, sentiment analysis generative tasks, road object detection, and satellite image segmentation, Statistical model training.
 
-Specialize in implementing clean architecture for deploying models in production, prioritizing efficiency and effectiveness in the process.
+Specialize in implementing a clean architecture for deploying models in production, prioritizing efficiency and effectiveness in the process.
 
 ---
 
 ### Projects
 ---
   **VKYC:** This service has mainly five features with multiple modules.
+  
+  <img src="Screenshot from 2024-02-23 00-26-21.png" width="500" align="center" />
+  
    - Document Data Extractor & Verification  <br />
        - [Aadhaar Card](https://uidai.gov.in/)
          <br />
@@ -36,7 +39,7 @@ Specialize in implementing clean architecture for deploying models in production
         - Eye Blinking Finger Counter
      - Signature Match Verification <br />
  
-     [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />](https://streamlit.io/) [Model cache](https://www.geeksforgeeks.org/lru-cache-implementation/)
+     [<img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="50" />](https://min.io/) MinIODB [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*GibgcYb8tARyAwBZ" width="100" />](https://milvus.io/) [<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" />](https://hub.docker.com/) [<img src="https://miro.medium.com/v2/resize:fit:600/1*Xyrmr3lIfdwwH638Iv0LzQ.png" width="100" />](https://kubernetes.io/) [<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="100" />](https://www.mongodb.com/) [<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />](https://streamlit.io/) [Model cache](https://www.geeksforgeeks.org/lru-cache-implementation/)
 
  ---
   **AI Service & AI Prediction :** Some of the use cases of service
@@ -67,19 +70,19 @@ This tool is used to gather information from social media sites including Facebo
 
 **TSDR:** Traffic sign Detection and Recognition
 <br />
-Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources. It reduce the driver mistake and suggest the all driver alert for smoother rides. Due to connected with gps system, it also provide the location of driver alert as well.
+Detecting and Recognizing up to 100 different Driver-Alerts in internal survey street image data. Effort reduction of data team up to 80%. GPU handling is used so that our model can take advantage of production resources. It reduces driver mistakes and suggests the all-driver alert for smoother rides. Due to being connected with GPS, it also provides the location of driver alert as well.
 
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="50" />](https://www.tensorflow.org/) [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg" width="50" />](https://www.mathworks.com/help/deeplearning/ref/resnet50.html) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/)
 
 ---
 **Privacy Keeper:** Face and License Plate Detection and Blurring
 <br />
-The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets used for training. GPU multiprocessor functionality was used with Tkinter for GUI.
+The license plate detection utilized the YOLO model, while the MTCNN model utilized the face detection. Specialized Indian datasets were used for training. GPU multiprocessor functionality was used with Tkinter for GUI.
 <br />
 [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0ohzrBA4exBZ1uc1SqIJErzOwcqL32YWEQ&usqp=CAU" width="30" />](https://docs.python.org/3/library/tkinter.html)
 
 ---
-**Brand Billboard Detection and Recognition :**
+**Brand Billboard Detection and Recognition:**
 <br />
 The system identifies brand billboards in images or real-time webcam feeds. The recognized brand names are acknowledged by the company, allowing for training based on this information. The system is deployed for batch processing purposes.
 
@@ -88,7 +91,7 @@ The system identifies brand billboards in images or real-time webcam feeds. The 
 ---
 **Zebra Crossing Detection and Recognition:**
 <br />
-The system detects all pedestrian crossings on the road in real-time and promptly alerts the driver.
+The system detects all pedestrian crossings on the road in real time and promptly alerts the driver.
 
 [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="50" />](https://flask.palletsprojects.com/en/2.3.x/) 
 
@@ -106,13 +109,13 @@ Based on entity recognition, the system identifies and categorizes words related
 
 - **MACHINE LEARNING, NLP:** AutomL pycaret (training), Langchain, Layoutlmv2, Tacotron, Hugging Face, Transformer, Rasa ChatBot
 
-- **COMPUTER VISION (Convolutional Neural Network):** Training, Transfer learning with Pretrained models on customized datasets like (ResNet, VGG, Yolo, UNet, Mask-RCNN, etc.), Object Detection and Recognition, Image Segmentation and classification, Modeling with Keras, Tensorflow, and Pytorch, Image Processing with OpenCV, Matplotlib
+- **COMPUTER VISION (Convolutional Neural Network):** Training, Transfer learning with pre-trained models on customized datasets like (ResNet, VGG, Yolo, UNet, Mask-RCNN, etc.), Object Detection and Recognition, Image Segmentation and classification, Modeling with Keras, Tensorflow, and Pytorch, Image Processing with OpenCV, Matplotlib
 
 - **DATA PREPROCESSING AND VISUALIZATION:** Pandas, Numpy, Pyplot, Plotly, Beautifulsoup, Boxplot, Histogram, etc.
 
 - **DATABASE:** Postgres, Mysql and Mongodb, minIO, Milvus DB
 
-- **DEV TECHNOLOGY:** AWS, Conda, Cuda (GPU), Docker, Kafka, PySpark, Kubernetes (Testing: unittest, pytest)
+- **DEV TECHNOLOGY:** AWS, Conda, Cuda (GPU), Docker, Kafka, PySpark, Kubernetes (Testing: unit test, pytest)
 
 - **PROJECT MANAGEMENT TOOL:** GitHub and Jira
 
