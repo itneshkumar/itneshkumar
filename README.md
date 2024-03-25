@@ -91,7 +91,8 @@ Specialize in implementing a clean architecture for deploying models in producti
 - Specialized Indian datasets were used for training.
 - GPU multiprocessor functionality was used with Tkinter for GUI.
 <br />
-[<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0ohzrBA4exBZ1uc1SqIJErzOwcqL32YWEQ&usqp=CAU" width="30" />](https://docs.python.org/3/library/tkinter.html)
+
+ [<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" width="50" />](https://www.postgresql.org/) [<img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="40" />](https://docs.python.org/3/library/tkinter.html)
 
 ---
 **Brand Billboard Detection and Recognition:**
